@@ -24,20 +24,20 @@ Welcome to the **Multi-Project App** — an interactive and educational Python a
 ## 🗂 Folder Structure
 
 your_app_directory/
-│
-├── app.py # Main Streamlit app
-│
-├── projects/ # All individual modules stored here
-│ ├── init.py # Makes it a Python package
-│ ├── bmi_calculator.py
-│ ├── countdown_timer.py
-│ ├── hangman.py
-│ ├── mad_libs.py
-│ ├── rock_paper_scissors.py
-│ ├── sample_data_dashboard.py
-│ ├── password_generator.py
-│ ├── number_game_user.py
-│ └── number_game_computer.py
+*│
+*├── app.py # Main Streamlit app
+*│
+*├── projects/ # All individual modules stored here
+*│ ├── init.py # Makes it a Python package
+*│ ├── bmi_calculator.py
+*│ ├── countdown_timer.py
+*│ ├── hangman.py
+*│ ├── mad_libs.py
+*│ ├── rock_paper_scissors.py
+*│ ├── sample_data_dashboard.py
+*│ ├── password_generator.py
+*│ ├── number_game_user.py
+*│ └── number_game_computer.py
 
 ## 🚀 Getting Started
 
